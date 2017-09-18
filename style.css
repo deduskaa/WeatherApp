@@ -1,0 +1,29 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Jenny\/Documents\/Koodaushommia\/Weather\/style\.scss}line{font-family:\000031}}
+body {
+  background-color: black;
+  color: white;
+  width: 100%;
+  font-family: Helvetica; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Jenny\/Documents\/Koodaushommia\/Weather\/style\.scss}line{font-family:\000038}}
+.container {
+  margin: auto;
+  width: 50%;
+  text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Jenny\/Documents\/Koodaushommia\/Weather\/style\.scss}line{font-family:\0000312}}
+  .container h1 {
+    font-size: 3em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Jenny\/Documents\/Koodaushommia\/Weather\/style\.scss}line{font-family:\0000315}}
+  .container p {
+    font-size: 2em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Jenny\/Documents\/Koodaushommia\/Weather\/style\.scss}line{font-family:\0000318}}
+  .container a {
+    text-decoration: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Jenny\/Documents\/Koodaushommia\/Weather\/style\.scss}line{font-family:\0000323}}
+#map {
+  height: 300px;
+  width: 50%;
+  margin: auto; }
+
+/*# sourceMappingURL=style.css.map */
